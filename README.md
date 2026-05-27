@@ -25,6 +25,6 @@ Esse repositório reúne os artefatos elaborados durante o desenvolvimento do PI
        ├── Terceira persona de professor
  
 📁 Protótipos/
+ ├── Fluxo administrador
  ├── Fluxo aluno
- ├── Fluxo professor
- └── Fluxo administrador
+ └── Fluxo professor
