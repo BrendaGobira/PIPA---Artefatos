@@ -11,19 +11,19 @@ Esse repositório reúne os artefatos elaborados durante o desenvolvimento do PI
  └── Entidade e relacionamento
 
 📁 Personas/
+ ├── 📁 Administradores
+ |     ├── Primeira persona de administrador
+ |     ├── Segunda persona de administrador
+ |     └── Terceira persona de administrador
  ├── 📁 Alunos
  |     ├── Primeira persona de aluno
  |     ├── Segunda persona de aluno
  |     └── Terceira persona de aluno
- ├── 📁 Professores
- |     ├── Primeira persona de professor
- |     ├── Segunda persona de professor
- |     ├── Terceira persona de professor
- └── 📁 Administradores
-       ├── Primeira persona de administrador
-       ├── Segunda persona de administrador
-       └── Terceira persona de administrador
-
+ └──  📁 Professores
+       ├── Primeira persona de professor
+       ├── Segunda persona de professor
+       ├── Terceira persona de professor
+ 
 📁 Protótipos/
  ├── Fluxo aluno
  ├── Fluxo professor
