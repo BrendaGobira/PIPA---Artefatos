@@ -2,9 +2,10 @@
   
 Esse repositório reúne os artefatos elaborados durante o desenvolvimento do PIPA — Plataforma Infantil de Pensamento Algorítmico. O trabalho propõe um ambiente lúdico de aprendizado do Pensamento Computacional. Por intermédio de pesquisas de mercado, foram criadas diretrizes e estruturas de design que visam facilitar o processo de estudo infantil.  
   
-- Estrutura do repositório  
+- Estrutura do repositório
   
-📁 Diagramas/  
+  
+📁 Diagramas/    
  ├── 📁 Casos de uso/  
  |    ├── Diagrama  
  |    └── Descrição  
@@ -23,7 +24,7 @@ Esse repositório reúne os artefatos elaborados durante o desenvolvimento do PI
  └──  📁 Professores  
        ├── Primeira persona de professor  
        ├── Segunda persona de professor  
-       ├── Terceira persona de professor  
+       └── Terceira persona de professor  
    
 📁 Protótipos/  
  ├── Fluxo administrador  
