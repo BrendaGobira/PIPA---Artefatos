@@ -7,20 +7,20 @@ Esse repositório reúne os artefatos elaborados durante o desenvolvimento do PI
   
 📁 Diagramas/    
  ├── 📁 Casos de uso/    
-  |    ├── Diagrama    
-  |    └── Descrição    
+   |    ├── Diagrama    
+   |    └── Descrição    
  ├── Classes    
  └── Entidade e relacionamento    
     
 📁 Personas/    
  ├── 📁 Administradores    
-  |     ├── Primeira persona de administrador    
-  |     ├── Segunda persona de administrador    
-  |     └── Terceira persona de administrador    
+   |     ├── Primeira persona de administrador    
+   |     ├── Segunda persona de administrador    
+   |     └── Terceira persona de administrador    
  ├── 📁 Alunos    
-  |     ├── Primeira persona de aluno    
-  |     ├── Segunda persona de aluno    
-  |     └── Terceira persona de aluno    
+   |     ├── Primeira persona de aluno    
+   |     ├── Segunda persona de aluno    
+   |     └── Terceira persona de aluno    
  └──  📁 Professores    
        ├── Primeira persona de professor    
        ├── Segunda persona de professor    
