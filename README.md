@@ -7,7 +7,7 @@ Esse repositório reúne os artefatos elaborados durante o desenvolvimento do PI
   
 📁 Diagramas/    
  ├── 📁 Casos de uso/    
-   |    ├── Diagrama    
+     |    ├── Diagrama    
    |    └── Descrição    
  ├── Classes    
  └── Entidade e relacionamento    
